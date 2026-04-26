@@ -20,7 +20,7 @@ The dashboard combines clear visual storytelling with advanced analytics feature
 
 ## 📷 Dashboard Preview
 
-![Sales Insight Dashboard](images/dashboard.png)
+https://github.com/Tuhin1988/Power-BI-Sales-Dashboard-with-KPIS-and-Pareto/blob/main/Images/Sales%20Insight%20Dashboard.png
 
 ---
 
