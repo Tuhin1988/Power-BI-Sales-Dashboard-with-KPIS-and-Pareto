@@ -58,7 +58,7 @@ https://github.com/Tuhin1988/Power-BI-Sales-Dashboard-with-KPIS-and-Pareto/blob/
 
 * `Sales Dashboard.pbix` → Main Power BI dashboard file
 * `sales_data.xlsx` → Raw dataset used for analysis
-* `images/dashboard.png` → Dashboard preview image
+* `https://github.com/Tuhin1988/Power-BI-Sales-Dashboard-with-KPIS-and-Pareto/blob/main/Images/Sales%20Insight%20Dashboard.png → Dashboard preview image
 
 ---
 
